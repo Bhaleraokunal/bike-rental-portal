@@ -1,0 +1,21 @@
+How to run Project
+1. Download and Unzip the file on your local system copy bikerental .
+2. Put bikerental folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+Database Configuration
+
+Open phpmyadmin
+Create Database bikerental
+Import database bikerental.sql (available SQL File Folder inside zip package)
+
+For User
+Open Your browser put inside browser “http://localhost/bikerental”
+Login Details for user:
+Username : test@gmail.com
+Password: Test@123
+
+For Admin Panel
+Open Your browser put inside browser “http://localhost/bikerental/admin”
+Login Details for admin :
+Username: admin
+Password: Test@12345
